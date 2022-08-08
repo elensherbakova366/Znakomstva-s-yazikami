@@ -29,3 +29,4 @@ else
     Console.WriteLine(numberC = max);
      Console.WriteLine ("Число меньшее");
 }
+//не получилось решить, в комментариях прошу написать что не так. Спасибо!
