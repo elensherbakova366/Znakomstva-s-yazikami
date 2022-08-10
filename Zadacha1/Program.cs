@@ -1,5 +1,5 @@
-﻿int numberA = -3;
-int numberB = 8;
+﻿int numberA = -10;
+int numberB = -5;
 int max = numberA;
 if (numberA > numberB)
 {   Console.WriteLine (numberA = max);
