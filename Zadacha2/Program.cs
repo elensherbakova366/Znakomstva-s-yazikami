@@ -1,32 +1,37 @@
-﻿Console.WriteLine ("Введите числа 2, 44, 22");
-int numberA = int.Parse (Console.ReadLine());
-Console.WriteLine ("Введите числа 3, 5, 3");
-int numberB = int.Parse (Console.ReadLine());
-Console.WriteLine ("Введите числа 22, 3, 9");
-int number = int.Parse (Console.ReadLine());
+﻿int numberA = 28;
+int numberB = 35;
+int numberC = 3;
 int max = numberA;
-Console.WriteLine("Сравним числа:");
-if (numberB < numberA > numberC)
-{   Console.WriteLine (numberA = max);
+ if (numberA > numberB)
+ {
+    Console.WriteLine (numberA = max);
     Console.WriteLine ("Число большее");
-}
-else if (numberB = numberA) 
-{
-     Console.WriteLine ("Числа равны");
-} 
-   
-else if (numberC = numberA) 
-{   
-    Console.WriteLine ("Числa равны");
-}
-else if (numberC = numberB) 
-{   
-    Console.WriteLine ("Числa равны");
-}
-else
-{
-    Console.WriteLine(numberB = max);
-    Console.WriteLine(numberC = max);
-     Console.WriteLine ("Число меньшее");
-}
-//не получилось решить, в комментариях прошу написать что не так. Спасибо!
+ }
+ else if (numberC > numberB)
+ {
+    Console.WriteLine (numberC = max);
+    Console.WriteLine ("Число большее");
+ }
+ else if (numberA > numberC)
+ {
+    Console.WriteLine (numberA = max);
+    Console.WriteLine ("Число большее");
+ }
+ else
+ {
+    Console.WriteLine (numberC = max);
+    Console.WriteLine ("Число большее");
+ }
+ //Почему-то он всегда выдает numberA = max
+ //Я хотела решить эту задачку с помощью логических операций по той ссылке,которую
+ //ты скинул, я ничего там не поняла. Мне что именно надо было использовать для своей задачи?
+ //Операция "больше чем". Сравнивает два операнда и возвращает true, если первый операнд больше второго,
+  //иначе возвращает false:
+//int a = 10;
+//int b = 4;
+//bool c = a > b;     // true
+//bool d = a > 25;    // false
+//И еще можешь сказать, что значит "возвращает false"?Я прочитала в интернете, но не поняла
+
+
+ 
