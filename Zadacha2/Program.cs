@@ -1,13 +1,15 @@
-﻿int numberA = 100;
-int numberB = 15;
-int numberC = 35;
+﻿                     //Найти максим из трех чисел
+int numberA = -6;
+int numberB = 3;
+int numberC = 3;
 int max = numberA;
-if (numberB > numberA)
+if (numberB > max)
 {
    max = numberB;
 }
- if (numberC > numberA)
+ if (numberC > max)
 {
    max = numberC;
 }
 Console.WriteLine(max);
+Console.WriteLine("Максимальное число");
