@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GEEKBRAINS\\Домашки\\Знакомства с языками\\Zadacha4\\Zadacha4.csproj": {}
+    "D:\\GEEKBRAINS\\Домашки\\Знакомства c programir\\Zadacha4\\Zadacha4.csproj": {}
   },
   "projects": {
-    "D:\\GEEKBRAINS\\Домашки\\Знакомства с языками\\Zadacha4\\Zadacha4.csproj": {
+    "D:\\GEEKBRAINS\\Домашки\\Знакомства c programir\\Zadacha4\\Zadacha4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GEEKBRAINS\\Домашки\\Знакомства с языками\\Zadacha4\\Zadacha4.csproj",
+        "projectUniqueName": "D:\\GEEKBRAINS\\Домашки\\Знакомства c programir\\Zadacha4\\Zadacha4.csproj",
         "projectName": "Zadacha4",
-        "projectPath": "D:\\GEEKBRAINS\\Домашки\\Знакомства с языками\\Zadacha4\\Zadacha4.csproj",
+        "projectPath": "D:\\GEEKBRAINS\\Домашки\\Знакомства c programir\\Zadacha4\\Zadacha4.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\GEEKBRAINS\\Домашки\\Знакомства с языками\\Zadacha4\\obj\\",
+        "outputPath": "D:\\GEEKBRAINS\\Домашки\\Знакомства c programir\\Zadacha4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
