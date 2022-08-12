@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GEEKBRAINS\\Домашки\\Знакомства с языками\\Zadacha1\\Zadacha1.csproj",
+      "projectUniqueName": "D:\\GEEKBRAINS\\Домашки\\Знакомства c programir\\Zadacha1\\Zadacha1.csproj",
       "projectName": "Zadacha1",
-      "projectPath": "D:\\GEEKBRAINS\\Домашки\\Знакомства с языками\\Zadacha1\\Zadacha1.csproj",
+      "projectPath": "D:\\GEEKBRAINS\\Домашки\\Знакомства c programir\\Zadacha1\\Zadacha1.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\GEEKBRAINS\\Домашки\\Знакомства с языками\\Zadacha1\\obj\\",
+      "outputPath": "D:\\GEEKBRAINS\\Домашки\\Знакомства c programir\\Zadacha1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

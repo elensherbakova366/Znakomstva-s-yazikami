@@ -1,12 +1,14 @@
-﻿int numberA = -10;
-int numberB = -5;
+﻿          //Найти максим из двух чисел
+int numberA = 100;
+int numberB = 35;
 int max = numberA;
 if (numberA > numberB)
-{   Console.WriteLine (numberA = max);
-    Console.WriteLine ("Число большее");
+{   Console.WriteLine (max);
+    Console.WriteLine ("Число максимальное");
 }
 else
 {
-    Console.WriteLine(numberB = max);
-    Console.WriteLine ("Число меньшее");
+    max = numberB; 
+    Console.WriteLine(max);
+    Console.WriteLine ("Число максимальное");
 }
