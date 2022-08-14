@@ -1,12 +1,11 @@
 ﻿                       //Найти все четные числа от 1 до N
 int count = 1;
 int N = 5;
-int n = count + 1;
 while (count<N)
 {
     if (count%2==0)
     {
-        Console.WriteLine(n);
+        Console.WriteLine(count);
         Console.WriteLine("Число четное"); 
         count++;
     }   
@@ -15,6 +14,3 @@ while (count<N)
         Console.WriteLine("Число нечетное");  
     }
 }
-//Не получается у меня решить эту задачу. Ты сказал, проверять count на четность,
-//это ты имел ввиду  if (count%2==0)? И еще я не пойму как обозначить, что я вывожу 
-//все четные числа в промежутке от 1 до 5 (здесь я обозначила n)
