@@ -1,0 +1,15 @@
+D:\GEEKBRAINS\Домашки\Знакомства c programir\Задачки после 3 семинара\Zadacha3\obj\Debug\net6.0\Zadacha3.csproj.AssemblyReference.cache
+D:\GEEKBRAINS\Домашки\Знакомства c programir\Задачки после 3 семинара\Zadacha3\obj\Debug\net6.0\Zadacha3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS\Домашки\Знакомства c programir\Задачки после 3 семинара\Zadacha3\obj\Debug\net6.0\Zadacha3.AssemblyInfoInputs.cache
+D:\GEEKBRAINS\Домашки\Знакомства c programir\Задачки после 3 семинара\Zadacha3\obj\Debug\net6.0\Zadacha3.AssemblyInfo.cs
+D:\GEEKBRAINS\Домашки\Знакомства c programir\Задачки после 3 семинара\Zadacha3\obj\Debug\net6.0\Zadacha3.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS\Домашки\Знакомства c programir\Задачки после 3 семинара\Zadacha3\bin\Debug\net6.0\Zadacha3.exe
+D:\GEEKBRAINS\Домашки\Знакомства c programir\Задачки после 3 семинара\Zadacha3\bin\Debug\net6.0\Zadacha3.deps.json
+D:\GEEKBRAINS\Домашки\Знакомства c programir\Задачки после 3 семинара\Zadacha3\bin\Debug\net6.0\Zadacha3.runtimeconfig.json
+D:\GEEKBRAINS\Домашки\Знакомства c programir\Задачки после 3 семинара\Zadacha3\bin\Debug\net6.0\Zadacha3.dll
+D:\GEEKBRAINS\Домашки\Знакомства c programir\Задачки после 3 семинара\Zadacha3\bin\Debug\net6.0\Zadacha3.pdb
+D:\GEEKBRAINS\Домашки\Знакомства c programir\Задачки после 3 семинара\Zadacha3\obj\Debug\net6.0\Zadacha3.dll
+D:\GEEKBRAINS\Домашки\Знакомства c programir\Задачки после 3 семинара\Zadacha3\obj\Debug\net6.0\refint\Zadacha3.dll
+D:\GEEKBRAINS\Домашки\Знакомства c programir\Задачки после 3 семинара\Zadacha3\obj\Debug\net6.0\Zadacha3.pdb
+D:\GEEKBRAINS\Домашки\Знакомства c programir\Задачки после 3 семинара\Zadacha3\obj\Debug\net6.0\Zadacha3.genruntimeconfig.cache
+D:\GEEKBRAINS\Домашки\Знакомства c programir\Задачки после 3 семинара\Zadacha3\obj\Debug\net6.0\ref\Zadacha3.dll
